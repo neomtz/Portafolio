@@ -1,3 +1,6 @@
+2023-05-30
+1. Modificaciones en modulo "sobre mi".
+
 2023-05-23
 1. Ultima actualizacion.
 
